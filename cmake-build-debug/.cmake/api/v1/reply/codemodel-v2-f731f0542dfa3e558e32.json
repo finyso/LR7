@@ -1,0 +1,231 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Task_1",
+					"jsonFile" : "directory-Task_1-Debug-79b7c45eeb948668e9b6.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Task_1",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Task_2",
+					"jsonFile" : "directory-Task_2-Debug-8db57d51ab86de63daa5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Task_2",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Task_3",
+					"jsonFile" : "directory-Task_3-Debug-f625729c70e6bb6232ff.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "Task_3",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "Task_4",
+					"jsonFile" : "directory-Task_4-Debug-2a961417ee2f2db01f7e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "Task_4",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "Task_5",
+					"jsonFile" : "directory-Task_5-Debug-85270c878e26cb9b89c3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "Task_5",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "LR7"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Task_1",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "Task_2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "Task_3",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "Task_4",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "Task_5",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Task_1::@775f9d06f02bcf61bb32",
+					"jsonFile" : "target-Task_1-Debug-43d4f7bc0c48d1f98e6f.json",
+					"name" : "Task_1",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Task_2::@864b83540094888698cd",
+					"jsonFile" : "target-Task_2-Debug-1bebab073e69d118158d.json",
+					"name" : "Task_2",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "Task_3::@8f13bd60b816abd8c254",
+					"jsonFile" : "target-Task_3-Debug-5fbb6dedf37c46353640.json",
+					"name" : "Task_3",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "Task_4::@9d7a895bcf115969505c",
+					"jsonFile" : "target-Task_4-Debug-d4b2ef9a790730ac2324.json",
+					"name" : "Task_4",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "Task_5::@d9d25e7f4c3e405f06be",
+					"jsonFile" : "target-Task_5-Debug-b59cc5391539cb167d46.json",
+					"name" : "Task_5",
+					"projectIndex" : 5
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/finyso/Documents/453502/\u041e\u0410\u0438\u041f/LR7/cmake-build-debug",
+		"source" : "/home/finyso/Documents/453502/\u041e\u0410\u0438\u041f/LR7"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

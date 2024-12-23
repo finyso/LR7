@@ -1,0 +1,17 @@
+/home/finyso/Documents/453502/ОАиП/LR7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/finyso/Documents/453502/ОАиП/LR7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/finyso/Documents/453502/ОАиП/LR7/cmake-build-debug/Task_1/CMakeFiles/Task_1.dir
+/home/finyso/Documents/453502/ОАиП/LR7/cmake-build-debug/Task_1/CMakeFiles/edit_cache.dir
+/home/finyso/Documents/453502/ОАиП/LR7/cmake-build-debug/Task_1/CMakeFiles/rebuild_cache.dir
+/home/finyso/Documents/453502/ОАиП/LR7/cmake-build-debug/Task_2/CMakeFiles/Task_2.dir
+/home/finyso/Documents/453502/ОАиП/LR7/cmake-build-debug/Task_2/CMakeFiles/edit_cache.dir
+/home/finyso/Documents/453502/ОАиП/LR7/cmake-build-debug/Task_2/CMakeFiles/rebuild_cache.dir
+/home/finyso/Documents/453502/ОАиП/LR7/cmake-build-debug/Task_3/CMakeFiles/Task_3.dir
+/home/finyso/Documents/453502/ОАиП/LR7/cmake-build-debug/Task_3/CMakeFiles/edit_cache.dir
+/home/finyso/Documents/453502/ОАиП/LR7/cmake-build-debug/Task_3/CMakeFiles/rebuild_cache.dir
+/home/finyso/Documents/453502/ОАиП/LR7/cmake-build-debug/Task_4/CMakeFiles/Task_4.dir
+/home/finyso/Documents/453502/ОАиП/LR7/cmake-build-debug/Task_4/CMakeFiles/edit_cache.dir
+/home/finyso/Documents/453502/ОАиП/LR7/cmake-build-debug/Task_4/CMakeFiles/rebuild_cache.dir
+/home/finyso/Documents/453502/ОАиП/LR7/cmake-build-debug/Task_5/CMakeFiles/Task_5.dir
+/home/finyso/Documents/453502/ОАиП/LR7/cmake-build-debug/Task_5/CMakeFiles/edit_cache.dir
+/home/finyso/Documents/453502/ОАиП/LR7/cmake-build-debug/Task_5/CMakeFiles/rebuild_cache.dir
